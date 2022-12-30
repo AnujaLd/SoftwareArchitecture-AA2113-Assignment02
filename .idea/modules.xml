@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AA2113 Assignment 2.iml" filepath="$PROJECT_DIR$/.idea/AA2113 Assignment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOA/DemoWebServer/DemoWebServer.iml" filepath="$PROJECT_DIR$/SOA/DemoWebServer/DemoWebServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOA/DemoWebServiceClient/DemoWebServiceClient.iml" filepath="$PROJECT_DIR$/SOA/DemoWebServiceClient/DemoWebServiceClient.iml" />
+    </modules>
+  </component>
+</project>
